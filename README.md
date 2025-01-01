@@ -16,20 +16,26 @@ Vibrant event and community engagement
 
 Ensures data integrity and secure storage.
 Verifies news authenticity and protects user-generated content.
+
 🎙️ Voice-Based Search
 
 Simplifies search with voice commands for a seamless user experience.
+
 📰 Category-Based News Aggregation
 
 Fetches the latest news tailored to your preferences:
+
 e.g., Sports, Technology, Business.
+
 ❗ Rumor Verification
 
 Cross-checks information for authenticity using blockchain and APIs.
+
 📅 Event & Community Hub
 
 Participate in or create events.
 Collaborate and share ideas with the community.
+
 📦 Dependencies
 
 Core Dependencies
