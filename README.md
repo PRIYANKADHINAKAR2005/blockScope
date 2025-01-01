@@ -1,4 +1,4 @@
-BlockScope
+``BlockScope``
 BlockScope is an interactive platform that leverages modern web technologies to deliver features like blockchain integration, voice-based search, category-specific news aggregation, rumor verification, and a vibrant event and community hub.
 
 Key Features
