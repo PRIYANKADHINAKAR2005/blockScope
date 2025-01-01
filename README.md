@@ -11,21 +11,29 @@ Vibrant event and community engagement
 🌟 Stay informed. Stay connected. Stay authentic.
 
 ✨ Key Features
+
 🔗 Blockchain Integration
+
 Ensures data integrity and secure storage.
 Verifies news authenticity and protects user-generated content.
 🎙️ Voice-Based Search
+
 Simplifies search with voice commands for a seamless user experience.
 📰 Category-Based News Aggregation
+
 Fetches the latest news tailored to your preferences:
 e.g., Sports, Technology, Business.
 ❗ Rumor Verification
+
 Cross-checks information for authenticity using blockchain and APIs.
 📅 Event & Community Hub
+
 Participate in or create events.
 Collaborate and share ideas with the community.
 📦 Dependencies
+
 Core Dependencies
+
 Dependency	Purpose	CDN
 Axios	API requests for news, geolocation, and blockchain.	<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 Web3.js	Blockchain interactions and data storage.	<script src="https://cdn.jsdelivr.net/npm/web3/dist/web3.min.js"></script>
